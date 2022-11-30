@@ -1,4 +1,2 @@
 This is our first git class
-new
-newl
-main
+ok
